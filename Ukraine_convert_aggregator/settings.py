@@ -37,6 +37,10 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'ticketbox_com',
+    'rest_framework',
+    'front',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
